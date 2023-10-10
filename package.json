@@ -1,0 +1,11 @@
+{
+  "name": "@wearebirl/sample",
+  "version": "1.0.0",
+  "description": "A sample package to verify publishing works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
